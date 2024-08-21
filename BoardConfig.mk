@@ -10,13 +10,13 @@ include device/oneplus/sm8550-common/BoardConfigCommon.mk
 DEVICE_PATH := device/oneplus/aston
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := OP5D35L1,OP5CF9L1
+TARGET_OTA_ASSERT_DEVICE := PJA110
 
 # Display
 TARGET_SCREEN_DENSITY := 450
 
 # Kernel
-TARGET_KERNEL_CONFIG += vendor/oplus/aston.config
+TARGET_KERNEL_CONFIG += vendor/oplus/xigua.config
 
 # Kernel modules
 BOARD_SYSTEM_KERNEL_MODULES_LOAD := $(strip $(shell cat $(DEVICE_PATH)/modules.load.system_dlkm))
@@ -46,4 +46,4 @@ SOONG_CONFIG_OPLUS_LINEAGE_VIBRATOR_HAL := \
 SOONG_CONFIG_OPLUS_LINEAGE_VIBRATOR_HAL_USE_EFFECT_STREAM := true
 
 # Include the proprietary files BoardConfig.
-include vendor/oneplus/aston/BoardConfigVendor.mk
+include vendor/oneplus/xigua/BoardConfigVendor.mk
