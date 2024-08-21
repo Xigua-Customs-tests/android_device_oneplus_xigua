@@ -7,7 +7,7 @@
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8550-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/oneplus/aston
+DEVICE_PATH := device/oneplus/xigua
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := PJA110
