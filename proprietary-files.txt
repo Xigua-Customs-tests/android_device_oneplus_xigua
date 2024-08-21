@@ -122,33 +122,45 @@ odm/firmware/fastchg/smart_chg_config_table.txt
 vendor/etc/charger_fw_fstab.qti
 
 # Display (Pixelworks)
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm14.txt
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm17.txt
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm2.txt
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm23.txt
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm5.txt
-odm/etc/inparm/iris7_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm8.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm14.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm14_2nit.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm14_low.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm17.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm17_2nit.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm17_low.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm2.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm22.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm23.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm5.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm5_2nit.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm5_low.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/inParm8.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/mcfCheck.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/mcfCheck_2nit.txt
-odm/etc/inparm/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel/mcfCheck_low.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm14_low.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm14.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm17.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm22.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm23.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm2.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm5.txt
+odm/etc/inparm/iris7_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm8.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm14_2nit.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm14_low.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm14.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm17_2nit.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm17_low.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm17.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm22.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm23.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm26.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm29.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm2.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm32.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm34.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm35.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm37.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm38.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm5_2nit.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm5_low.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm5.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/inParm8.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/mcfCheck_2nit.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/mcfCheck_low.txt
+odm/etc/inparm/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel/mcfCheck.txt
 odm/etc/iris_configs.xml
-odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.dat
-odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.fw
-odm/etc/irissoft_AA551_P_3_A0004_dsc_cmd_mode_panel.xml
-odm/firmware/pxlw_i7p_panel_AA551_P_3_A0004_dsc_cmd.fw
+odm/etc/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel.fw
+odm/etc/irissoft_AA536_P_3_A0001_dsc_cmd_mode_panel.xml
+
+# Touchscreen firmware
+odm/firmware/tp/22811/FW_S3908_SAMSUNG.img
+odm/firmware/tp/22811/FW_S3908_SAMSUNG_FAE.img
+odm/firmware/tp/22811/LIMIT_S3908_SAMSUNG.img
 
 # IR
 odm/bin/hw/android.hardware.ir-service
@@ -183,29 +195,6 @@ odm/lib64/vendor.oplus.hardware.touch-V2-ndk.so
 odm/etc/vintf/manifest/manifest_touch_aidl.xml
 odm/etc/init/init.touchDaemon.rc
 odm/etc/init/vendor-oplus-hardware-touch-V2-service.rc
-
-# Touchscreen firmware
-odm/firmware/tp/23801/FW_S3910_BOE.img
-odm/firmware/tp/23801/FW_S3910_BOE_FAE.img
-odm/firmware/tp/23801/FW_S3910_BOE_HBP.img
-odm/firmware/tp/23801/FW_S3910_BOE_HBP_FAE.img
-odm/firmware/tp/23801/FW_S3910_TIANMA.img
-odm/firmware/tp/23801/FW_S3910_TIANMA_FAE.img
-odm/firmware/tp/23801/FW_S3910_TIANMA_HBP.img
-odm/firmware/tp/23801/FW_S3910_TIANMA_HBP_FAE.img
-odm/firmware/tp/23801/LIB_S3910_BOE_HBP_TS_ALGO.so
-odm/firmware/tp/23801/LIB_S3910_BOE_HBP_TS_HAL.so
-odm/firmware/tp/23801/LIB_S3910_TIANMA_HBP_TS_ALGO.so
-odm/firmware/tp/23801/LIB_S3910_TIANMA_HBP_TS_HAL.so
-odm/firmware/tp/23801/LIMIT_S3910_BOE.img
-odm/firmware/tp/23801/LIMIT_S3910_BOE_HBP.img
-odm/firmware/tp/23801/LIMIT_S3910_BOE_HBP_AGING.img
-odm/firmware/tp/23801/LIMIT_S3910_TIANMA.img
-odm/firmware/tp/23801/LIMIT_S3910_TIANMA_HBP.img
-odm/firmware/tp/23801/libIfp.so
-odm/firmware/tp/23801/sys_edge_touch_config.xml
-odm/firmware/tp/23801/sys_touch_algo_feature_config.xml
-odm/firmware/tp/23801/sys_touch_function_feature_config.xml
 
 # UFS
 odm/firmware/ufs/MICRON-MT001TAYAX8U40.bin
