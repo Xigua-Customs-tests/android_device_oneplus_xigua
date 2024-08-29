@@ -14,7 +14,7 @@ $(call inherit-product, device/oneplus/xigua/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_xigua
+PRODUCT_NAME := aosp_xigua
 PRODUCT_DEVICE := xigua
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
