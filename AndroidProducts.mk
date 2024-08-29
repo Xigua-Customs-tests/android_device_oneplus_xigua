@@ -5,5 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_xigua.mk
+    $(LOCAL_DIR)/aosp_xigua.mk
 
